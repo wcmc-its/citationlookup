@@ -1,2 +1,1 @@
-# citationlookup
-Citation Lookup Tool
+# Citation Lookup Tool
