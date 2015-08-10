@@ -39,8 +39,11 @@ Parses the citations using the AnyStyle.io web service. For example, this record
 
 Is converted into this: 
 > Author: R, Hurtado and G, Bub and J, Herzlinger D.F.A.S.E.B.
+
 > Title: A molecular signature of tissues with pacemaker activity in the heart and upper urinary tract involves coexed hyperpolarization-activated cation and T-type Ca2+ channels
+
 > Type: incollection
+
 > Language: en
 
 ### PubMed Search
