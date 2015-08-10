@@ -54,3 +54,6 @@ PubMed returns one of the following for each record:
   * no PMID's
   * one PMID
   * two or more PMID's
+
+Here is what the results look like:
+https://dl.dropboxusercontent.com/u/2014679/citationlookup.png)
